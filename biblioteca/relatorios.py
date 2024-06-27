@@ -1,7 +1,7 @@
 import json
-from livros import receber_livros
-from usuarios import receber_usuarios
-from emprestimos import receber_emprestimos
+from biblioteca.livros import receber_livros
+from biblioteca.usuarios import receber_usuarios
+from biblioteca.emprestimos import receber_emprestimos
 
 def gerar_relatorio():
     livros = receber_livros()

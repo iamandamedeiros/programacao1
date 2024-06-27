@@ -1,7 +1,7 @@
-from livros import inserir_livro, remover_livro, atualizar_livro, receber_livros
-from usuarios import inserir_usuario, remover_usuario, atualizar_usuario, receber_usuarios
-from emprestimos import emprestar_livro, devolver_livro, atualizar_emprestimo, receber_emprestimos
-from relatorios import gerar_relatorio
+from biblioteca.livros import inserir_livro, remover_livro, atualizar_livro, receber_livros
+from biblioteca.usuarios import inserir_usuario, remover_usuario, atualizar_usuario, receber_usuarios
+from biblioteca.emprestimos import emprestar_livro, devolver_livro, atualizar_emprestimo, receber_emprestimos
+from biblioteca.relatorios import gerar_relatorio
 
 def exibir_menu():
     print("\n=== MENU PRINCIPAL ===")

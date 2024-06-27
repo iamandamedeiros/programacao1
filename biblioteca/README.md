@@ -1,5 +1,6 @@
-# BibliotecaPy
-[livros]()
+# BibliotecaPy 
+
+![airan_kang-not_art-jkscatena](https://github.com/iamandamedeiros/programacao1/assets/149709202/8c69fead-1012-4e39-9130-118e5cad0ec6)
 
 Projeto de um sistema de controle de empréstimos de livros para a disciplina de Programação I do Curso de Gestão de Dados da Universidade Federal do Piauí.
 
@@ -30,4 +31,3 @@ Python
 - Lara Oliveira
 - Liviny Karla
 - Silvirene Rodrigues
-
