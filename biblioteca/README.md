@@ -24,10 +24,8 @@ Python
 
 ## ✒ Autores
 - Amanda Medeiros
-- Lara Kelly 
-- Joel Kainã 
 - Josemberg Nascimento
-- Riane Azevedo Porto 
+- Joel Kainã 
+- Lara Kelly
 - Lara Oliveira
 - Liviny Karla
-- Silvirene Rodrigues
